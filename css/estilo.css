@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Poppins:wght@700&display=swap');
+
+body {
+    background-color: rgb(212, 212, 255);
+
+}
+
+h1 {
+    color: rgb(99, 99, 255);
+}
