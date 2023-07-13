@@ -1,12 +1,43 @@
 @import url('https://fonts.googleapis.com/css2?family=Caprasimo&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Poppins:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&family=Manrope:wght@200&family=Quicksand&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
 
 body {
-    background-color: rgb(212, 212, 255);
-
+    background-color: rgb(232, 232, 255);
+    line-height: 2.5;
 }
 
 h1 {
-    color: rgb(99, 99, 255);
+    color: rgb(255, 255, 255);
 }
+
+.menu {
+    background-color: black;
+    padding: 15px; /* Engrossando o Background-Color */
+    font-family: Comfortaa, Verdana, Arial;
+    font-size: 15px;
+    overflow: hidden;
+}
+
+.title{
+    font-family: Comfortaa, Verdana, Arial;
+    background-color: rgb(108, 35, 224);
+    padding: 15px;
+
+}
+
+.software {
+    font-family: Comfortaa, Verdana, Arial;
+    background-color: rgb(56, 7, 135);
+    padding: 15px;
+
+}
+
